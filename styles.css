@@ -450,4 +450,16 @@ footer {
     width: 100%;
     margin-bottom: 24px;
   }
+
+  #features {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .books {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
